@@ -25,7 +25,7 @@
     "methods": "^1.1.1",
     "nunjucks": "^2.3.0",
     "react": "^0.14.5",
-    "react-dom": "^0.14.5",
+    "react-dom": "^16.0.1",
     "react-redux": "^4.0.6",
     "react-router": "^2.0.0-rc5",
     "redux": "^3.0.5",
